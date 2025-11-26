@@ -1,39 +1,18 @@
-<div align="center">
-  <img
-  width="200px"
-  src="https://github.com/creazy231/directus-extension-raw-query/blob/main/logo-transparent-cropped.png?raw=true" />
+<p align="center">
+  <img src="https://github.com/creazy231/directus-extension-raw-query/blob/main/logo-transparent-cropped.png?raw=true" alt="Directus Raw Query Extension Logo" width="200">
+</p>
 
-  <h1>Directus Extension: Raw Query</h1>
+<h1 align="center">
+Directus Extension: Raw Query
+</h1>
 
-  <p style="margin-top: 0;">Execute raw SQL queries directly from the Directus admin panel using Monaco Editor. That's it 🤷🏻‍♂️</p>
+<p align="center"><img src="https://img.shields.io/github/actions/workflow/status/creazy231/directus-extension-raw-query/release.yml" alt="GitHub Actions Workflow Status">&nbsp;<img src="https://img.shields.io/github/package-json/v/creazy231/directus-extension-raw-query" alt="GitHub package.json version">&nbsp;<a href="https://github.com/creazy231/directus-extension-raw-query/releases"><img src="https://img.shields.io/github/v/release/creazy231/directus-extension-raw-query" alt="GitHub Release"></a></p>
 
-  <p>
-    <a href="https://github.com/creazy231/directus-extension-raw-query/graphs/commit-activity">
-      <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance" />
-    </a>
-    <a href="https://github.com/creazy231">
-      <img src="https://img.shields.io/badge/maintainer-creazy231-blue" alt="Maintainer" />
-    </a>
-    <a href="https://github.com/creazy231/directus-extension-raw-query/releases/">
-      <img src="https://img.shields.io/github/release/creazy231/directus-extension-raw-query.svg" alt="GitHub release" />
-    </a>
-    <a href="https://www.npmjs.org/package/directus-extension-raw-query">
-      <img src="https://img.shields.io/npm/v/directus-extension-raw-query" alt="NPM release" />
-    </a>
-    <a href="https://www.npmjs.org/package/directus-extension-raw-query">
-      <img src="https://img.shields.io/npm/dm/directus-extension-raw-query" alt="NPM downloads" />
-    </a>
-    <a href="https://GitHub.com/creazy231/directus-extension-raw-query/network/">
-      <img src="https://img.shields.io/github/forks/creazy231/directus-extension-raw-query.svg?style=social&label=Fork&maxAge=2592000" alt="GitHub forks" />
-    </a>
-    <a href="https://GitHub.com/creazy231/directus-extension-raw-query/stargazers/">
-      <img src="https://img.shields.io/github/stars/creazy231/directus-extension-raw-query.svg?style=social&label=Star&maxAge=2592000" alt="GitHub stars" />
-    </a>
-    <a href="https://GitHub.com/creazy231/directus-extension-raw-query/watchers/">
-      <img src="https://img.shields.io/github/watchers/creazy231/directus-extension-raw-query.svg?style=social&label=Watch&maxAge=2592000" alt="GitHub watchers" />
-    </a>
-  </p>
-</div>
+<p align="center"><a href="https://www.npmjs.org/package/directus-extension-raw-query"><img src="https://img.shields.io/npm/v/directus-extension-raw-query?logo=npm&logoColor=%23FFFFFF&label=NPM" alt="NPM Version"></a>&nbsp;<a href="https://www.npmjs.org/package/directus-extension-raw-query"><img src="https://img.shields.io/npm/dm/directus-extension-raw-query?logo=npm&logoColor=%23FFFFFF&label=Downloads" alt="NPM Downloads"></a>&nbsp;<a href="https://github.com/creazy231/directus-extension-raw-query/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance"></a></p>
+
+<p align="center"><a href="https://GitHub.com/creazy231/directus-extension-raw-query/stargazers/"><img src="https://img.shields.io/github/stars/creazy231/directus-extension-raw-query?style=social&label=Stars" alt="GitHub Stars"></a>&nbsp;<a href="https://GitHub.com/creazy231/directus-extension-raw-query/network/"><img src="https://img.shields.io/github/forks/creazy231/directus-extension-raw-query?style=social&label=Forks" alt="GitHub Forks"></a>&nbsp;<a href="https://ko-fi.com/creazy231"><img src="https://img.shields.io/badge/Ko--fi-Support%20me%20on%20Ko--fi-FF5E5B?logo=ko-fi&logoColor=white" alt="Support me on Ko-fi"></a></p>
+
+<hr>
 
 ## ✨ Features
 
