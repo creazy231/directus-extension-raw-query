@@ -10,7 +10,7 @@ Directus Extension: Raw Query
 
 <p align="center"><a href="https://www.npmjs.org/package/directus-extension-raw-query"><img src="https://img.shields.io/npm/v/directus-extension-raw-query?logo=npm&logoColor=%23FFFFFF&label=NPM" alt="NPM Version"></a>&nbsp;<a href="https://www.npmjs.org/package/directus-extension-raw-query"><img src="https://img.shields.io/npm/dm/directus-extension-raw-query?logo=npm&logoColor=%23FFFFFF&label=Downloads" alt="NPM Downloads"></a>&nbsp;<a href="https://github.com/creazy231/directus-extension-raw-query/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance"></a></p>
 
-<p align="center"><a href="https://GitHub.com/creazy231/directus-extension-raw-query/stargazers/"><img src="https://img.shields.io/github/stars/creazy231/directus-extension-raw-query?style=social&label=Stars" alt="GitHub Stars"></a>&nbsp;<a href="https://GitHub.com/creazy231/directus-extension-raw-query/network/"><img src="https://img.shields.io/github/forks/creazy231/directus-extension-raw-query?style=social&label=Forks" alt="GitHub Forks"></a>&nbsp;<a href="https://ko-fi.com/creazy231"><img src="https://img.shields.io/badge/Ko--fi-Support%20me%20on%20Ko--fi-FF5E5B?logo=ko-fi&logoColor=white" alt="Support me on Ko-fi"></a></p>
+<p align="center"><a href="https://github.com/creazy231/directus-extension-raw-query/stargazers/"><img src="https://img.shields.io/github/stars/creazy231/directus-extension-raw-query?style=social&label=Stars" alt="GitHub Stars"></a>&nbsp;<a href="https://github.com/creazy231/directus-extension-raw-query/network/"><img src="https://img.shields.io/github/forks/creazy231/directus-extension-raw-query?style=social&label=Forks" alt="GitHub Forks"></a>&nbsp;<a href="https://ko-fi.com/creazy231"><img src="https://img.shields.io/badge/Ko--fi-Support%20me%20on%20Ko--fi-FF5E5B?logo=ko-fi&logoColor=white" alt="Support me on Ko-fi"></a></p>
 
 <hr>
 
@@ -265,4 +265,4 @@ MIT License Copyright 2025 creazy231
 
 This extension is inspired by the [strapi-plugin-raw-query](https://github.com/creazy231/strapi-plugin-raw-query) for Strapi CMS.
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/creazy231/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/creazy231/)
