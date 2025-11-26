@@ -39,12 +39,6 @@ jobs:
             echo "Tag v$VERSION does not exist, will create release"
           fi
 
-      - name: Build extension
-        if: steps.check-tag.outputs.exists == 'false'
-        run: |
-          npm ci
-          npm run build
-
       - name: Create GitHub Release
         if: steps.check-tag.outputs.exists == 'false'
         uses: softprops/action-gh-release@v1
@@ -61,9 +55,6 @@ jobs:
             ```bash
             npm install directus-extension-raw-query@${{ steps.package-version.outputs.version }}
             ```
-          files: |
-            dist/app.js
-            dist/api.js
           draft: false
           prerelease: false
 
