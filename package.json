@@ -1,7 +1,7 @@
 {
   "name": "directus-extension-raw-query",
   "type": "module",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Execute raw SQL queries in Directus with Monaco Editor",
   "keywords": [
     "directus",
