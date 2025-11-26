@@ -6,7 +6,7 @@
 Directus Extension: Raw Query
 </h1>
 
-<p align="center"><img src="https://img.shields.io/github/actions/workflow/status/creazy231/directus-extension-raw-query/release.yml" alt="GitHub Actions Workflow Status">&nbsp;<img src="https://img.shields.io/github/package-json/v/creazy231/directus-extension-raw-query" alt="GitHub package.json version">&nbsp;<a href="https://github.com/creazy231/directus-extension-raw-query/releases"><img src="https://img.shields.io/github/v/release/creazy231/directus-extension-raw-query" alt="GitHub Release"></a></p>
+<p align="center"><img src="https://img.shields.io/github/package-json/v/creazy231/directus-extension-raw-query" alt="GitHub package.json version">&nbsp;<a href="https://github.com/creazy231/directus-extension-raw-query/releases"><img src="https://img.shields.io/github/v/release/creazy231/directus-extension-raw-query" alt="GitHub Release"></a></p>
 
 <p align="center"><a href="https://www.npmjs.org/package/directus-extension-raw-query"><img src="https://img.shields.io/npm/v/directus-extension-raw-query?logo=npm&logoColor=%23FFFFFF&label=NPM" alt="NPM Version"></a>&nbsp;<a href="https://www.npmjs.org/package/directus-extension-raw-query"><img src="https://img.shields.io/npm/dm/directus-extension-raw-query?logo=npm&logoColor=%23FFFFFF&label=Downloads" alt="NPM Downloads"></a>&nbsp;<a href="https://github.com/creazy231/directus-extension-raw-query/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance"></a></p>
 
